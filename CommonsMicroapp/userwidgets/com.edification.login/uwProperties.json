@@ -1,0 +1,58 @@
+{
+    "classname": "login",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "Login component actions",
+                    "kuid": "bc42674588184cdb9b13913fc19caeac",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "loginSuccessCallback",
+                    "pw": {
+                        "displayName": "loginSuccessCallback",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b54041eb3c014bd5b0534572a720232d",
+                    "type": "event"
+                },
+                {
+                    "group": "Login component actions",
+                    "kuid": "d0803fae25ca4d59b354551dd096bf84",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "loginFailureCallback",
+                    "pw": {
+                        "displayName": "loginFailureCallback",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b54041eb3c014bd5b0534572a720232d",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [
+                "Login component actions"
+            ],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.edification",
+    "version": "1.0.0"
+}

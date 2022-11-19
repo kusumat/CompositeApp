@@ -1,0 +1,23 @@
+{
+    "AS_UWI_f47adb62e11b4ebfab1edf39e31ed792": {
+        "id": "AS_UWI_f47adb62e11b4ebfab1edf39e31ed792",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie26e27faef94b8e822b78c0f37e13b3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_c7ca1195ff6241f79c93c0101e1a53a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"login\");",
+            "parentId": null
+        }]
+    }
+}

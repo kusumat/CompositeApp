@@ -1,0 +1,25 @@
+{
+    "AS_UWI_icc4d264fab54c0f99e75328fdd183d6": {
+        "id": "AS_UWI_icc4d264fab54c0f99e75328fdd183d6",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie26e27faef94b8e822b78c0f37e13b3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__hda1f597f4d84f5699764709f3b0fba9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loginSuccessCallback",
+            "display": "loginSuccessCallback",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

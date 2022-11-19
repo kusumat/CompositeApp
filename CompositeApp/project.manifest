@@ -1,0 +1,22 @@
+{
+    "dependencies": [
+        {
+            "name": "LoginMA",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "CommonsMicroapp",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "MicroAppsResource",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        }
+    ]
+}

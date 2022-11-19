@@ -1,0 +1,15 @@
+{
+    "dependencies": [
+        {
+            "name": "CommonsMicroapp",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "MicroAppsResource",
+            "isHidden": false,
+            "excludeFromBuild": false
+        }
+    ]
+}
